@@ -20,7 +20,7 @@ class UnauthenticationTest extends TestCase
             'password'  =>'s7ss7ss7ss7ss7s',
             'password_confirmation'=>'s7ss7ss7ss7ss7s',
             'region_id' => 2,
-            'device_token' => 'eyHOUmQgSOqtdbDYxch7ug:APA91bHkOyO2lnZwhQtQLMv-kIq1JEO1JGa84dGCS5e-BeF6yJCcyXgDMudPbpoxj6nj7gTqRtrjJcLy3pYW77udYQWyZh0tpxP953eWOXZ81YGW0q4_bAdhEaci49s4SddW1AptCAJe'
+            'device_token' => 'eyHOUmQgSOq3pYW77udYQWyZh0tpxP953eWOXZ81YGW0q4_bAdhEaci49s4SddW1AptCAJe'
         ];
 
         // Exercise
